@@ -17,3 +17,13 @@ This repository contains solutions to a multi-part programming and theory assign
 | 7 | Turing Machine | Simulated Turing Machine that adds 1 to a binary number |
 | 8 | Computational Complexity | Bubble sort analysis across all permutations of a 5-element list |
 
+---
+
+## Task Summaries
+
+### Task 1: Binary Representations
+Implemented the following functions:
+- `rotl(x, n=1)`: Left bitwise rotation on a 32-bit integer.
+- `rotr(x, n=1)`: Right bitwise rotation.
+- `ch(x, y, z)`: The SHA-256 choose function.
+- `maj(x, y, z)`: The SHA-256 majority function.
