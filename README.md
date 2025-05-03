@@ -30,3 +30,9 @@ Implemented the following functions:
 
 ### Task 2: Hash Functions
 Converted a hash function from C to Python. It multiplies a rolling hash by `31` and takes modulo `101`. Explained why `31` (a small prime) and `101` (also prime) are good choices to reduce hash collisions.
+
+### Task 3: SHA-256 Padding
+Wrote a function that:
+- Calculates and prints the padding for any file.
+- Follows FIPS 180-4 rules: append `1` bit, followed by `0`s, and finally a 64-bit length field.
+
