@@ -57,3 +57,8 @@ Simulated a Turing Machine in Python that:
 - Adds `1` to the binary number using proper state transitions and tape simulation.
 - Modeled carry logic using formal Turing rules.
 
+### Task 8: Computational Complexity
+- Implemented **bubble sort** with a counter for comparisons.
+- Ran it on all **120 permutations** of `[1, 2, 3, 4, 5]`.
+- Printed the number of comparisons needed for each permutation to observe performance variations.
+
