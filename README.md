@@ -2,7 +2,16 @@
 
 This repository contains solutions to a multi-part programming and theory assignment based on the **SHA-256 specification (FIPS 180-4)** and foundational computer science concepts such as hashing, Turing Machines, and computational complexity.
 
----
+## Research & Workflow
+
+- Each task in this assignment is accompanied by **research notes** written directly in the Jupyter notebook as Markdown cells. These notes explain the theory, algorithms, or standards behind each implementation.
+- Where relevant, external references are included.
+
+## Project Management
+
+- Task progress and milestones were **tracked using GitHub Issues**.
+- Each issue corresponds to a specific task, allowing for clear breakdowns, discussion, and status updates.
+- This workflow helped structure the development process and document task completion efficiently.
 
 ## Contents
 
@@ -62,3 +71,14 @@ Simulated a Turing Machine in Python that:
 - Ran it on all **120 permutations** of `[1, 2, 3, 4, 5]`.
 - Printed the number of comparisons needed for each permutation to observe performance variations.
 
+## Research & Workflow
+
+- Each task in this assignment is accompanied by **research notes** written directly in the Jupyter notebook as Markdown cells. These notes explain the theory, algorithms, or standards (e.g., FIPS 180-4) behind each implementation.
+- Where relevant, external references are included (e.g., Turing Machine definitions, SHA-256 specification).
+- This documentation ensures the work is both **transparent** and **educationally grounded**.
+
+## Project Management
+
+- Task progress and milestones were **tracked using GitHub Issues**.
+- Each issue corresponds to a specific task, allowing for clear breakdowns, discussion, and status updates.
+- This workflow helped structure the development process and document task completion efficiently.
