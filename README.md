@@ -27,3 +27,6 @@ Implemented the following functions:
 - `rotr(x, n=1)`: Right bitwise rotation.
 - `ch(x, y, z)`: The SHA-256 choose function.
 - `maj(x, y, z)`: The SHA-256 majority function.
+
+### Task 2: Hash Functions
+Converted a hash function from C to Python. It multiplies a rolling hash by `31` and takes modulo `101`. Explained why `31` (a small prime) and `101` (also prime) are good choices to reduce hash collisions.
