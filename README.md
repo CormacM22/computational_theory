@@ -50,3 +50,10 @@ Calculated the first 32 bits of the **fractional part** of the square roots of t
 - Loaded a dictionary of English words.
 - Calculated SHA-256 hashes and counted **leading zero bits**.
 - Found the word(s) with the **most leading zero bits** and provided dictionary-based proof of validity.
+
+### Task 7: Turing Machines
+Simulated a Turing Machine in Python that:
+- Starts at the leftmost symbol of a binary string.
+- Adds `1` to the binary number using proper state transitions and tape simulation.
+- Modeled carry logic using formal Turing rules.
+
