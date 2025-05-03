@@ -36,3 +36,8 @@ Wrote a function that:
 - Calculates and prints the padding for any file.
 - Follows FIPS 180-4 rules: append `1` bit, followed by `0`s, and finally a 64-bit length field.
 
+### Task 4: Prime Numbers
+Implemented:
+- **Trial division** algorithm.
+- **Sieve of Eratosthenes** for efficient prime generation.
+
