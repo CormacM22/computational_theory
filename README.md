@@ -45,3 +45,8 @@ Compared performance and explained algorithmic logic.
 
 ### Task 5: Roots
 Calculated the first 32 bits of the **fractional part** of the square roots of the first 100 prime numbers. These values are commonly used in SHA-256 constants.
+
+### Task 6: Proof of Work
+- Loaded a dictionary of English words.
+- Calculated SHA-256 hashes and counted **leading zero bits**.
+- Found the word(s) with the **most leading zero bits** and provided dictionary-based proof of validity.
