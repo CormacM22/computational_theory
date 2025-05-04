@@ -82,3 +82,35 @@ Simulated a Turing Machine in Python that:
 - Task progress and milestones were **tracked using GitHub Issues**.
 - Each issue corresponds to a specific task, allowing for clear breakdowns, discussion, and status updates.
 - This workflow helped structure the development process and document task completion efficiently.
+
+## How to Run the Tasks Notebook
+
+To run the tasks and view the research, code, and outputs interactively, follow these steps:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/CormacM22/computationaltheory.git
+cd computationaltheory
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+Then open the notebook file (e.g., tasks.ipynb) from the Jupyter interface.
+
+#### Notes
+
+- All tasks are contained and documented within a single notebook.
+
+- Each section includes research, code, and outputs.
+
+- Make sure to use Python 3.8+ for full compatibility.
+
+
